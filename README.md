@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Cloud DevOps Engineer | SRE | AWS & Azure Certified | Skilled in CICD | Eligible to work in the U.S. (Permanent Resident)
 <!--
 **ch0992/ch0992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
