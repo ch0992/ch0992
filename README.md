@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://ch0992.github.io/techblog/images/icons/logo_icon.png" width="100" />
 
-  # Yeong Gyu Choi
+  # Ethan (Yeong Gyu) Choi
 
   **Senior Platform / DevOps Engineer · Cloud \& AI Tooling**
 
